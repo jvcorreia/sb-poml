@@ -1,0 +1,5 @@
+name: sb-poml
+functions:
+  pomlWidget:
+    path: poml.ts:widget
+    codeWidget: poml
